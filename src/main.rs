@@ -1,4 +1,4 @@
-use bevy::prelude::VariableCurve;
+use bevy::prelude::*;
 mod lib;
 
 fn main() {
